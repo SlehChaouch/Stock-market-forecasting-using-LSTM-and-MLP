@@ -1,1 +1,1 @@
-# CNN-Classification-d-images
+# Stock market forecasting using LSTM and MLP
